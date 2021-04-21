@@ -1,4 +1,3 @@
-import './mcu-shows/MCUShows.css'
 import MCUShows from './mcu-shows/MCUShows'
 
 const releaseDates = {

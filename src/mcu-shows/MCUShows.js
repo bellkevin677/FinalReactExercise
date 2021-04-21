@@ -1,4 +1,4 @@
-
+import './MCUShows.css'
 
 const MCUShows = (releaseDates) => {
     return(
